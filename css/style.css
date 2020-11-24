@@ -1574,7 +1574,7 @@ input[type="radio"] .styled:checked+label::after {
 }
 .banner-main {
      position: relative;
-     background: url(../images/banner.jpg);
+     background: url(../images/banner.png);
      background-size: 100% 100%;
 }
 .banner-main .carousel-caption {
