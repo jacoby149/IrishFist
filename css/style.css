@@ -1699,7 +1699,7 @@ input[type="radio"] .styled:checked+label::after {
      color: #000;
 }
 .about-box .titlepage {
-     text-align: right;
+     /*text-align: right;*/
 }
 .about-box .titlepage h2 {
      padding: 0px 0px 36px 0px;
@@ -1719,7 +1719,6 @@ input[type="radio"] .styled:checked+label::after {
      height: 6px;
      background: #fff;
      width: 45%;
-     right: -295px;
 }
 .about-box .titlepage span {
      color: #fff;
