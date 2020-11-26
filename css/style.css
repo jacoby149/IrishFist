@@ -1702,23 +1702,24 @@ input[type="radio"] .styled:checked+label::after {
      /*text-align: right;*/
 }
 .about-box .titlepage h2 {
-     padding: 0px 0px 36px 0px;
+     padding: 0px 0px 20px 0px;
      font-size: 50px;
      font-weight: bold;
      color: #fff;
      line-height: 50px;
      position: relative;
-     margin-bottom: 20px;
+     margin-bottom: 0px;
 }
+
 .about-box .titlepage h2::after {
-     content: "";
      position: absolute;
      left: 0;
      top: 70%;
      margin: 10px auto;
-     height: 6px;
+     height: 0px;
      background: #fff;
-     width: 45%;
+     width: 10%;
+     right: 20px;
 }
 .about-box .titlepage span {
      color: #fff;
